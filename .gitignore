@@ -1,0 +1,23 @@
+# Build outputs
+*.exe
+*.o
+*.a
+*.so
+*.dll
+
+# VS Code
+.vscode/
+!.vscode/tasks.json
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Debug
+*.log
