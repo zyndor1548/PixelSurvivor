@@ -14,7 +14,7 @@ In PixelSurvivor, you control a character at the bottom of the screen defending 
 
 ## Credits
 
-**Textures & Music**: by Dhanush U S - [GitHub Profile](GITHUB_ACCOUNT_LINK_HERE)
+**Textures & Music**: by Dhanush U S - [GitHub Profile](https://github.com/usdhanush540)
 
 ## For Developers
 
